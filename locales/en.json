@@ -1,5 +1,5 @@
 {
-  "title": "CuratedStack (No-Code) Template",
+  "title": "Hand curated list of the best Design tools",
   "description": "Build a curated directory of websites without or with code",
   "tools": {
     "title": "Tools & Resources",
@@ -8,10 +8,10 @@
   "footer": {
     "title": "Any tool to suggest?",
     "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
-    "copyright": "Made with ❤️ in Europe 🇪🇺 by ",
+    "copyright": "Made with ❤️ in Australia by ",
     "author": {
-      "name": "Sandoche",
-      "website": "https://www.sandoche.com"
+      "name": "Design",
+      "website": "https://www.example.com"
     }
   },
   "buttons": {
